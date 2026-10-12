@@ -1,7 +1,7 @@
 // #include <Arduino.h>
 #include <WiFi.h>
 #include <EEPROM.h>
-https://comfyvpn.pro/setup.php?client= happ&device=windows&user=1670674188 &subscription=tYkSjvYtwGw27F5w& domen=sub.connecti24.info&type=add
+
 #define RELAY_STATE_ON 0
 #define KEY_GOOD 44
 #define EEPROM_SYZE 40
